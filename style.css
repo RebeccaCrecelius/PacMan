@@ -13,18 +13,23 @@ h3 {
 }
 
 h1 {
-    margin-bottom: 1px;
+    margin-top: 1rem;
+    margin-bottom: 1.5px;
 }
 
 p {
 	font-size: 14px;
 	font-family: "Kanit", Tahoma, sans-serif;
 	font-weight: 400;
-    margin-top: 0;
-    margin-bottom: 4px;
+    margin-top: 1px;
+    margin-bottom: 5px;
 }
 
-.grid {
+p a {
+    padding-top: 2.5px;
+}
+
+.grid { 
     width: 560px;
     height: 560px;
     border: solid black;
