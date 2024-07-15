@@ -232,7 +232,7 @@ const layout = [
         //check for a win
         function checkForWin() {
             if (score >= 313) {
-                ghosts.forEach(ghost => clearInterval(ghost.timerID))
+                ghosts.forEach(ghost => clearInterval(ghost.timerId))
                 document.removeEventListener('keyup', movePacman)
                 setTimeout(function() {alert('You Win!')} , 500)
             }
