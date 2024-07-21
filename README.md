@@ -7,7 +7,7 @@ A version of Pac-Man.
 * JavaScript
 
 ## Purpose
-To gain practice with JavaScript while building something fun.
+To practice JavaScript while building something fun.
 
 ## Resources
 Ania Kubów: <https://www.youtube.com/watch?v=q2ViNbRwr5U&t=5s>
